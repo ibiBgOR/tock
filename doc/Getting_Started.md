@@ -72,6 +72,7 @@ package manager (pip).
 ```bash
 (Linux): sudo pip3 install --upgrade tockloader
 (MacOS): pip3 install --upgrade tockloader
+(Windows): pip3 install --upgrade tockloader
 ```
 
 ## Compiling the Kernel
